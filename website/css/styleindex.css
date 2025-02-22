@@ -1,0 +1,27 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    background-color: #D7B899 ;
+}
+
+.imgone {
+    margin-top: 10px;
+    width: 86%;
+    height: 60%;
+    margin-left: 107px;
+    border-radius: 6px;
+}
+.bglongone {
+    display: flex;
+    background-color: #A67B5B;
+    width: 86%;
+    height: 100%;
+    margin-left: 107px;
+}
+.bgluakone {
+    display: flex;
+    background-color: #A67B5B;
+    height: 100%;
+    width: 86%;
+    margin-left: 107px;
+}

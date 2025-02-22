@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    background-color: #D7B899 ;
+}
+
+.ppdrink {
+    background-color: #A67B5B;
+    width: 87%;
+    margin-left: 7%;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.listimgcoffee {
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+}
+.coffee-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    background-color: #A67B5B;
+    padding: 8px;
+}
+.coffee-item p {
+    margin-top: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}

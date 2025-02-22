@@ -1,0 +1,42 @@
+.option {
+    background-color: #A67B5B;
+    width: 97%;
+    height: 10px;
+    align-items: center;
+    padding: 20px;
+    color: white;
+    display: flex;
+    border-radius: 5px;
+    justify-content: space-around;
+}
+
+.option a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+.option a:hover {
+    color: #4E342E;
+    background-color: white;
+    padding: 5px;
+    border-radius: 3px;
+    width: auto;
+}
+
+.closed {
+    background-color: #C49A6C;
+    width: 100%;
+    height: 100%;
+}
+
+.closed p {
+    text-align: center;
+    padding: 20px 0;
+    width: 100%;
+}
+.container {
+    max-width: 1800px;
+    margin: 0 auto;
+}
